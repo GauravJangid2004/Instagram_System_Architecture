@@ -215,15 +215,6 @@ The design proposes REST over HTTPS with JSON, JWT bearer authentication, idempo
 | `GET` | `/v1/search` | Search users or tags (`type=user` or `type=tag`) |
 | `GET` | `/v1/notifications` | List notifications |
 
-## Repository Contents
-
-```text
-.
-├── README.md
-└── Instagram_System_Design_Document.pdf
-```
-
-Keep the PDF beside this README in the repository root, or update the relative PDF link above if you store it in a folder such as `docs/`.
 
 ## Contributors
 

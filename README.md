@@ -227,9 +227,9 @@ Keep the PDF beside this README in the repository root, or update the relative P
 
 ## Contributors
 
-- Anmol Sahu
-- Gaurav Jangid
-- Maulik Sharma
-- Suryaansh Sharma
+- Anmol Sahu (2023Btech010)
+- Gaurav Jangid (2023Btech031)
+- Maulik Sharma (2023Btech047)
+- Suryaansh Sharma (2023Btech086)
 
 Prepared for the System Design and DevOps assignment at the Institute of Engineering and Technology, JK Lakshmipat University, Jaipur.
